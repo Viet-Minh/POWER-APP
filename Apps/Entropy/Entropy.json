@@ -1,0 +1,56 @@
+{
+  "ComponentIndexes": {
+    "Component1": 1
+  },
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Component1": 5,
+    "Host": 3,
+    "Screen1": 4
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "02/21/2024 09:32:19",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {},
+  "LocalDatabaseReferencesAsEmpty": true,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {
+    "4552343cec414954987c95cb2df8a692": 0
+  },
+  "OrderComponentTemplate": {
+    "4552343cec414954987c95cb2df8a692": 0
+  },
+  "OrderDataSource": {},
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {},
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Component1": {},
+    "Host": {},
+    "Screen1": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PCFTemplateEntry": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Component1": 0,
+    "Host": 0,
+    "Screen1": 0
+  },
+  "ResourcesJsonIndices": {},
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0400316,
+    "ControlCount": {
+      "screen": 1
+    },
+    "DeserializationLoadTime": 2.6481251
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}

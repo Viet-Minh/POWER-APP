@@ -134,6 +134,7 @@
     "UserLocale": "vi-VN"
   },
   "ScreenOrder": [
-    "Screen1"
+    "Screen1",
+    "Screen1_1"
   ]
 }
